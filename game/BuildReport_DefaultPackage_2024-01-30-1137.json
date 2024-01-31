@@ -1,0 +1,1817 @@
+{
+    "Summary": {
+        "YooVersion": "1.5.7",
+        "UnityVersion": "2021.3.16f1",
+        "BuildDate": "2024/1/30 18:57:21",
+        "BuildSeconds": 13,
+        "BuildTarget": 13,
+        "BuildPipeline": 1,
+        "BuildMode": 1,
+        "BuildPackageName": "DefaultPackage",
+        "BuildPackageVersion": "2024-01-30-1137",
+        "EnableAddressable": true,
+        "LocationToLower": false,
+        "IncludeAssetGUID": false,
+        "UniqueBundleName": false,
+        "SharedPackRuleClassName": "YooAsset.Editor.ZeroRedundancySharedPackRule",
+        "EncryptionServicesClassName": "null",
+        "OutputNameStyle": 1,
+        "CompressOption": 1,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "AssetFileTotalCount": 221,
+        "MainAssetTotalCount": 69,
+        "AllBundleTotalCount": 27,
+        "AllBundleTotalSize": 5110032,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0,
+        "RawBundleTotalCount": 0,
+        "RawBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "asteroid01",
+            "AssetPath": "Assets/AssetRaw/Actor/asteroid01.prefab",
+            "AssetGUID": "7d5f7699d6d1d48e485ac71126e12061",
+            "AssetTags": [
+                "Actor"
+            ],
+            "MainBundleName": "assets_assetraw_actor.bundle",
+            "MainBundleSize": 412370,
+            "DependBundles": [
+                "unityshaders.bundle"
+            ],
+            "DependAssets": [
+                "Assets/Models/PixelArtPipeline/Textures/drangonNormalMap.png",
+                "Assets/Models/PixelArtPipeline/Materials/dragon.mat",
+                "Assets/Models/PixelArtPipeline/Animations2D/Dragonfloss.anim",
+                "Assets/Models/PixelArtPipeline/Animations2D/DragonPixel_turtle_neck_controller.controller",
+                "Assets/Models/PixelArtPipeline/Shaders/ToonLitSprite.shader",
+                "Assets/Models/PixelArtPipeline/Textures/IdleAtlasDiffuse.png",
+                "Assets/Models/PixelArtPipeline/Animations2D/Dragonidle.anim",
+                "Assets/Models/PixelArtPipeline/Textures/drangon.png"
+            ]
+        },
+        {
+            "Address": "asteroid02",
+            "AssetPath": "Assets/AssetRaw/Actor/asteroid02.prefab",
+            "AssetGUID": "9143e2b62ad50488482f9b73672fc331",
+            "AssetTags": [
+                "Actor"
+            ],
+            "MainBundleName": "assets_assetraw_actor.bundle",
+            "MainBundleSize": 412370,
+            "DependBundles": [
+                "unityshaders.bundle"
+            ],
+            "DependAssets": [
+                "Assets/Models/PixelArtPipeline/Textures/drangonNormalMap.png",
+                "Assets/Models/PixelArtPipeline/Materials/dragon.mat",
+                "Assets/Models/PixelArtPipeline/Animations2D/Dragonfloss.anim",
+                "Assets/Models/PixelArtPipeline/Animations2D/DragonPixel_turtle_neck_controller.controller",
+                "Assets/Models/PixelArtPipeline/Shaders/ToonLitSprite.shader",
+                "Assets/Models/PixelArtPipeline/Textures/IdleAtlasDiffuse.png",
+                "Assets/Models/PixelArtPipeline/Animations2D/Dragonidle.anim",
+                "Assets/Models/PixelArtPipeline/Textures/drangon.png"
+            ]
+        },
+        {
+            "Address": "asteroid03",
+            "AssetPath": "Assets/AssetRaw/Actor/asteroid03.prefab",
+            "AssetGUID": "834bfaee90a9d4e04b1e8c1ca22cc88e",
+            "AssetTags": [
+                "Actor"
+            ],
+            "MainBundleName": "assets_assetraw_actor.bundle",
+            "MainBundleSize": 412370,
+            "DependBundles": [
+                "unityshaders.bundle"
+            ],
+            "DependAssets": [
+                "Assets/Models/PixelArtPipeline/Textures/drangonNormalMap.png",
+                "Assets/Models/PixelArtPipeline/Materials/dragon.mat",
+                "Assets/Models/PixelArtPipeline/Animations2D/Dragonfloss.anim",
+                "Assets/Models/PixelArtPipeline/Animations2D/DragonPixel_turtle_neck_controller.controller",
+                "Assets/Models/PixelArtPipeline/Shaders/ToonLitSprite.shader",
+                "Assets/Models/PixelArtPipeline/Textures/IdleAtlasDiffuse.png",
+                "Assets/Models/PixelArtPipeline/Animations2D/Dragonidle.anim",
+                "Assets/Models/PixelArtPipeline/Textures/drangon.png"
+            ]
+        },
+        {
+            "Address": "Door1",
+            "AssetPath": "Assets/AssetRaw/Actor/Door1.prefab",
+            "AssetGUID": "22b5b5cf60cb4df4ca8372664941b18d",
+            "AssetTags": [
+                "Actor"
+            ],
+            "MainBundleName": "assets_assetraw_actor.bundle",
+            "MainBundleSize": 412370,
+            "DependBundles": [
+                "unityshaders.bundle"
+            ],
+            "DependAssets": []
+        },
+        {
+            "Address": "enemy_bullet",
+            "AssetPath": "Assets/AssetRaw/Actor/enemy_bullet.prefab",
+            "AssetGUID": "11e27c26ac87b40f0a62ec40d7261989",
+            "AssetTags": [
+                "Actor"
+            ],
+            "MainBundleName": "assets_assetraw_actor.bundle",
+            "MainBundleSize": 412370,
+            "DependBundles": [
+                "unityshaders.bundle"
+            ],
+            "DependAssets": [
+                "Assets/AssetArt/Effect/fx_lazer_cyan_dff.tif",
+                "Assets/AssetArt/Effect/fx_bolt_cyan_mat.mat"
+            ]
+        },
+        {
+            "Address": "enemy_ship",
+            "AssetPath": "Assets/AssetRaw/Actor/enemy_ship.prefab",
+            "AssetGUID": "afc18fc39ade3744397c0c993b57be53",
+            "AssetTags": [
+                "Actor"
+            ],
+            "MainBundleName": "assets_assetraw_actor.bundle",
+            "MainBundleSize": 412370,
+            "DependBundles": [
+                "assets_assetraw_audios.bundle",
+                "unityshaders.bundle"
+            ],
+            "DependAssets": [
+                "Assets/Models/PixelArtPipeline/Textures/drangonNormalMap.png",
+                "Assets/Models/PixelArtPipeline/Materials/dragon.mat",
+                "Assets/AssetRaw/Audios/sound_weapon_enemy.wav",
+                "Assets/Models/PixelArtPipeline/Animations2D/Dragonfloss.anim",
+                "Assets/Models/PixelArtPipeline/Animations2D/DragonPixel_turtle_neck_controller.controller",
+                "Assets/Models/PixelArtPipeline/Shaders/ToonLitSprite.shader",
+                "Assets/Models/PixelArtPipeline/Textures/IdleAtlasDiffuse.png",
+                "Assets/Models/PixelArtPipeline/Animations2D/Dragonidle.anim",
+                "Assets/Models/PixelArtPipeline/Textures/drangon.png"
+            ]
+        },
+        {
+            "Address": "HpBar",
+            "AssetPath": "Assets/AssetRaw/Actor/HpBar.prefab",
+            "AssetGUID": "d81d331af18de9248a820473f4f65651",
+            "AssetTags": [
+                "Actor"
+            ],
+            "MainBundleName": "assets_assetraw_actor.bundle",
+            "MainBundleSize": 412370,
+            "DependBundles": [
+                "unityshaders.bundle"
+            ],
+            "DependAssets": []
+        },
+        {
+            "Address": "player_bullet",
+            "AssetPath": "Assets/AssetRaw/Actor/player_bullet.prefab",
+            "AssetGUID": "f4ec271e525e14ca9927a07e6a2e153d",
+            "AssetTags": [
+                "Actor"
+            ],
+            "MainBundleName": "assets_assetraw_actor.bundle",
+            "MainBundleSize": 412370,
+            "DependBundles": [
+                "unityshaders.bundle"
+            ],
+            "DependAssets": [
+                "Assets/AssetArt/Effect/fx_lazer_orange_dff.tif",
+                "Assets/AssetArt/Effect/fx_bolt_orange_mat.mat"
+            ]
+        },
+        {
+            "Address": "player_ship",
+            "AssetPath": "Assets/AssetRaw/Actor/player_ship.prefab",
+            "AssetGUID": "738bdf56857a65f479c367c7b62c4ad7",
+            "AssetTags": [
+                "Actor"
+            ],
+            "MainBundleName": "assets_assetraw_actor.bundle",
+            "MainBundleSize": 412370,
+            "DependBundles": [
+                "assets_assetraw_audios.bundle",
+                "unityshaders.bundle"
+            ],
+            "DependAssets": [
+                "Assets/AssetRaw/Audios/sound_weapon_player.wav",
+                "Assets/Models/PixelArtPipeline/Materials/D1.mat",
+                "Assets/Models/PixelArtPipeline/Animations2D/D1_idle.anim",
+                "Assets/Models/PixelArtPipeline/Shaders/ToonLitSprite.shader",
+                "Assets/AssetRaw/Actor/HpBar.prefab",
+                "Assets/Models/PixelArtPipeline/Animations2D/D1_ani.controller",
+                "Assets/Models/PixelArtPipeline/Animations2D/D1_floss.anim",
+                "Assets/Models/PixelArtPipeline/Textures/D1.png",
+                "Assets/Models/PixelArtPipeline/Textures/D1NormalMap.png"
+            ]
+        },
+        {
+            "Address": "arrow1_left",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/arrows/arrow1_left.png",
+            "AssetGUID": "9871e4d5e19cea6419d057b79ce1a1a8",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "MainBundleName": "assets_assetraw_uiraw_atlas_arrows.bundle",
+            "MainBundleSize": 135685,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "arrow1_right",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/arrows/arrow1_right.png",
+            "AssetGUID": "b1e9e5e05f0067f469e748e46985c269",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "MainBundleName": "assets_assetraw_uiraw_atlas_arrows.bundle",
+            "MainBundleSize": 135685,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "arrow_left",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/arrows/arrow_left.png",
+            "AssetGUID": "6d7b5d72581e8ca48b333e83a25d1514",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "MainBundleName": "assets_assetraw_uiraw_atlas_arrows.bundle",
+            "MainBundleSize": 135685,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "arrow_right",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/arrows/arrow_right.png",
+            "AssetGUID": "e05004e4bcd8b3e49bb0cbaab0215760",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "MainBundleName": "assets_assetraw_uiraw_atlas_arrows.bundle",
+            "MainBundleSize": 135685,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "back_arrow",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/arrows/back_arrow.png",
+            "AssetGUID": "a9ef9e2f50f97a84bbd269b5f7cc5ea4",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "MainBundleName": "assets_assetraw_uiraw_atlas_arrows.bundle",
+            "MainBundleSize": 135685,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "long_arrow_left",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/arrows/long_arrow_left.png",
+            "AssetGUID": "5d663ef25d3d5514a8d099e72353244b",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "MainBundleName": "assets_assetraw_uiraw_atlas_arrows.bundle",
+            "MainBundleSize": 135685,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "long_arrow_right",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/arrows/long_arrow_right.png",
+            "AssetGUID": "e9b8cd94ede145942a15f9e164af30a9",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "MainBundleName": "assets_assetraw_uiraw_atlas_arrows.bundle",
+            "MainBundleSize": 135685,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "plus",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/arrows/plus.png",
+            "AssetGUID": "36909c7c187739945aecb80f7c59fa4c",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "MainBundleName": "assets_assetraw_uiraw_atlas_arrows.bundle",
+            "MainBundleSize": 135685,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "bar_blue",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/bars/bar_blue.png",
+            "AssetGUID": "ba523fd85bea1e448944fe8cabed4b59",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "MainBundleName": "assets_assetraw_uiraw_atlas_bars.bundle",
+            "MainBundleSize": 20160,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "bar_blue1",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/bars/bar_blue1.png",
+            "AssetGUID": "20960a9e1f7b68c4f80d5078f5964057",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "MainBundleName": "assets_assetraw_uiraw_atlas_bars.bundle",
+            "MainBundleSize": 20160,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "progress_bar",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/bars/progress_bar.png",
+            "AssetGUID": "be40ff228ca528248b495d5025a1e327",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "MainBundleName": "assets_assetraw_uiraw_atlas_bars.bundle",
+            "MainBundleSize": 20160,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "progress_bar_background",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/bars/progress_bar_background.png",
+            "AssetGUID": "fcabe002e685bc147918c97e9538d17f",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "MainBundleName": "assets_assetraw_uiraw_atlas_bars.bundle",
+            "MainBundleSize": 20160,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "Space",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Battle/Space.jpg",
+            "AssetGUID": "b76b8b216adf64f4bbdb78f7977f0310",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "MainBundleName": "assets_assetraw_uiraw_atlas_battle.bundle",
+            "MainBundleSize": 912178,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "bullets",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/buttons/bullets.png",
+            "AssetGUID": "fcab35236e33438448805a9211b0cc19",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "MainBundleName": "assets_assetraw_uiraw_atlas_buttons.bundle",
+            "MainBundleSize": 271026,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "button1",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/buttons/button1.png",
+            "AssetGUID": "8a6f536f4b2392f40afb62df609f6e40",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "MainBundleName": "assets_assetraw_uiraw_atlas_buttons.bundle",
+            "MainBundleSize": 271026,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "button_active",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/buttons/button_active.png",
+            "AssetGUID": "67c34bb955c72e6419b7528e10e73c53",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "MainBundleName": "assets_assetraw_uiraw_atlas_buttons.bundle",
+            "MainBundleSize": 271026,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "button_pushed",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/buttons/button_pushed.png",
+            "AssetGUID": "03cbfa7fbded80a479f24add4a997757",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "MainBundleName": "assets_assetraw_uiraw_atlas_buttons.bundle",
+            "MainBundleSize": 271026,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "pause",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/buttons/pause.png",
+            "AssetGUID": "379c45e0c5ba5e54e8df03f52e4c7680",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "MainBundleName": "assets_assetraw_uiraw_atlas_buttons.bundle",
+            "MainBundleSize": 271026,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "rocket",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/buttons/rocket.png",
+            "AssetGUID": "3b8db7241fc8ff54e9dea6fc64cfd7e5",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "MainBundleName": "assets_assetraw_uiraw_atlas_buttons.bundle",
+            "MainBundleSize": 271026,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "blue_button",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/blue_button.png",
+            "AssetGUID": "f9a06e163014f4f46b14f4499d3e7240",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "MainBundleName": "assets_assetraw_uiraw_atlas_common.bundle",
+            "MainBundleSize": 17800,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "red_button",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/red_button.png",
+            "AssetGUID": "2761fc23b4aa7e34187ac5ffbc3fad9b",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "MainBundleName": "assets_assetraw_uiraw_atlas_common.bundle",
+            "MainBundleSize": 17800,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "white_background",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/white_background.png",
+            "AssetGUID": "d623a2b7e069a4c4592d3da48f476189",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "MainBundleName": "assets_assetraw_uiraw_atlas_common.bundle",
+            "MainBundleSize": 17800,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "white_button",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/white_button.png",
+            "AssetGUID": "57e4117f4cd6ae54284898652e70d553",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "MainBundleName": "assets_assetraw_uiraw_atlas_common.bundle",
+            "MainBundleSize": 17800,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "hp",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/hp.png",
+            "AssetGUID": "a53a7cf8d8eaaa24899cd32181aefabb",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "MainBundleName": "assets_assetraw_uiraw_atlas.bundle",
+            "MainBundleSize": 3058,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "window_transparent",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/window/window_transparent.png",
+            "AssetGUID": "06edc4e02f9c48647adfed0a778cb8aa",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "MainBundleName": "assets_assetraw_uiraw_atlas_window.bundle",
+            "MainBundleSize": 103006,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "window_transparent1",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/window/window_transparent1.png",
+            "AssetGUID": "78e3daf76621d66448e594d6993adbd8",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "MainBundleName": "assets_assetraw_uiraw_atlas_window.bundle",
+            "MainBundleSize": 103006,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "music_background",
+            "AssetPath": "Assets/AssetRaw/Audios/music_background.wav",
+            "AssetGUID": "7b04c59dd84f14039b601e1abbe7b884",
+            "AssetTags": [
+                "Audios"
+            ],
+            "MainBundleName": "assets_assetraw_audios.bundle",
+            "MainBundleSize": 855230,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "sound_explosion_asteroid",
+            "AssetPath": "Assets/AssetRaw/Audios/sound_explosion_asteroid.wav",
+            "AssetGUID": "3dc7455402dfa462b89a4bbd513955e9",
+            "AssetTags": [
+                "Audios"
+            ],
+            "MainBundleName": "assets_assetraw_audios.bundle",
+            "MainBundleSize": 855230,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "sound_explosion_enemy",
+            "AssetPath": "Assets/AssetRaw/Audios/sound_explosion_enemy.wav",
+            "AssetGUID": "72e76810224064300b7d32e8322a5d12",
+            "AssetTags": [
+                "Audios"
+            ],
+            "MainBundleName": "assets_assetraw_audios.bundle",
+            "MainBundleSize": 855230,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "sound_explosion_player",
+            "AssetPath": "Assets/AssetRaw/Audios/sound_explosion_player.wav",
+            "AssetGUID": "a019ae3af8e864616b85773c509f5285",
+            "AssetTags": [
+                "Audios"
+            ],
+            "MainBundleName": "assets_assetraw_audios.bundle",
+            "MainBundleSize": 855230,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "sound_weapon_enemy",
+            "AssetPath": "Assets/AssetRaw/Audios/sound_weapon_enemy.wav",
+            "AssetGUID": "1be4472894949437694aead55c6da60f",
+            "AssetTags": [
+                "Audios"
+            ],
+            "MainBundleName": "assets_assetraw_audios.bundle",
+            "MainBundleSize": 855230,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "sound_weapon_player",
+            "AssetPath": "Assets/AssetRaw/Audios/sound_weapon_player.wav",
+            "AssetGUID": "bf75b984df8a84987bcf3a8bf6e2862d",
+            "AssetTags": [
+                "Audios"
+            ],
+            "MainBundleName": "assets_assetraw_audios.bundle",
+            "MainBundleSize": 855230,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "about",
+            "AssetPath": "Assets/AssetRaw/Configs/about.txt",
+            "AssetGUID": "ba11f0707eb5f814392cbf12498aba94",
+            "AssetTags": [
+                "Configs",
+                "WEBGL_PRELOAD"
+            ],
+            "MainBundleName": "assets_assetraw_configs.bundle",
+            "MainBundleSize": 1003,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "need_cache_list",
+            "AssetPath": "Assets/AssetRaw/Configs/need_cache_list.json",
+            "AssetGUID": "c9f7d9280641e9a4b87697ace96a4315",
+            "AssetTags": [
+                "Configs",
+                "WEBGL_PRELOAD"
+            ],
+            "MainBundleName": "assets_assetraw_configs.bundle",
+            "MainBundleSize": 1003,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "GameBase.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/GameBase.dll.bytes",
+            "AssetGUID": "7b1a1ac70b214ef4084d01b05bd7e0bd",
+            "AssetTags": [
+                "DLL"
+            ],
+            "MainBundleName": "assets_assetraw_dll.bundle",
+            "MainBundleSize": 1540168,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "GameLogic.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/GameLogic.dll.bytes",
+            "AssetGUID": "db146bca444ea0d4e91b4765c2672b75",
+            "AssetTags": [
+                "DLL"
+            ],
+            "MainBundleName": "assets_assetraw_dll.bundle",
+            "MainBundleSize": 1540168,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "GameProto.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/GameProto.dll.bytes",
+            "AssetGUID": "62837517d72081748923bf807ea0c2d2",
+            "AssetTags": [
+                "DLL"
+            ],
+            "MainBundleName": "assets_assetraw_dll.bundle",
+            "MainBundleSize": 1540168,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "mscorlib.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/mscorlib.dll.bytes",
+            "AssetGUID": "0f80a4f00a81c7548bd428b46b563626",
+            "AssetTags": [
+                "DLL"
+            ],
+            "MainBundleName": "assets_assetraw_dll.bundle",
+            "MainBundleSize": 1540168,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "System.Core.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/System.Core.dll.bytes",
+            "AssetGUID": "9a98047bd651345449a38824d2539800",
+            "AssetTags": [
+                "DLL"
+            ],
+            "MainBundleName": "assets_assetraw_dll.bundle",
+            "MainBundleSize": 1540168,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "System.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/System.dll.bytes",
+            "AssetGUID": "8459297418c052840bb5fe1106b9974f",
+            "AssetTags": [
+                "DLL"
+            ],
+            "MainBundleName": "assets_assetraw_dll.bundle",
+            "MainBundleSize": 1540168,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "TEngine.Runtime.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/TEngine.Runtime.dll.bytes",
+            "AssetGUID": "2826b560dd9219b40bddd9dbbe05436a",
+            "AssetTags": [
+                "DLL"
+            ],
+            "MainBundleName": "assets_assetraw_dll.bundle",
+            "MainBundleSize": 1540168,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "UniTask.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/UniTask.dll.bytes",
+            "AssetGUID": "04b358ed5bb04cc46947014ed8978bd9",
+            "AssetTags": [
+                "DLL"
+            ],
+            "MainBundleName": "assets_assetraw_dll.bundle",
+            "MainBundleSize": 1540168,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "UnityEngine.CoreModule.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/UnityEngine.CoreModule.dll.bytes",
+            "AssetGUID": "86b4b6a1bc87d0f4fa4d43eadf0cde7f",
+            "AssetTags": [
+                "DLL"
+            ],
+            "MainBundleName": "assets_assetraw_dll.bundle",
+            "MainBundleSize": 1540168,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "YooAsset.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/YooAsset.dll.bytes",
+            "AssetGUID": "d835c0e12d2f0294c8a913e59f23b8d2",
+            "AssetTags": [
+                "DLL"
+            ],
+            "MainBundleName": "assets_assetraw_dll.bundle",
+            "MainBundleSize": 1540168,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "engines_enemy",
+            "AssetPath": "Assets/AssetRaw/Effects/Engines/engines_enemy.prefab",
+            "AssetGUID": "93bdcaae53f95461785a8eeb8c01bc61",
+            "AssetTags": [
+                "Effects"
+            ],
+            "MainBundleName": "assets_assetraw_effects_engines.bundle",
+            "MainBundleSize": 11946,
+            "DependBundles": [],
+            "DependAssets": [
+                "Assets/AssetArt/Effect/part_enginePulse_dff.tif",
+                "Assets/AssetArt/Effect/fx_enemyShip_engines_mat.mat"
+            ]
+        },
+        {
+            "Address": "engines_player",
+            "AssetPath": "Assets/AssetRaw/Effects/Engines/engines_player.prefab",
+            "AssetGUID": "62ea8a5ca94c546f29ba6dea8f379a7b",
+            "AssetTags": [
+                "Effects"
+            ],
+            "MainBundleName": "assets_assetraw_effects_engines.bundle",
+            "MainBundleSize": 11946,
+            "DependBundles": [],
+            "DependAssets": [
+                "Assets/AssetArt/Effect/part_jet_core_dff.tif",
+                "Assets/AssetArt/Effect/part_jet_core_mat.mat",
+                "Assets/AssetArt/Effect/part_jet_flare_dff.tif",
+                "Assets/AssetArt/Effect/part_jet_flare_mat.mat"
+            ]
+        },
+        {
+            "Address": "explosion_asteroid",
+            "AssetPath": "Assets/AssetRaw/Effects/Explosions/explosion_asteroid.prefab",
+            "AssetGUID": "a6d58f54ce5934781962a4f887e834f3",
+            "AssetTags": [
+                "Effects"
+            ],
+            "MainBundleName": "assets_assetraw_effects_explosions.bundle",
+            "MainBundleSize": 39678,
+            "DependBundles": [
+                "assets_assetraw_audios.bundle",
+                "unityshaders.bundle"
+            ],
+            "DependAssets": [
+                "Assets/AssetArt/Effect/part_glow_mat.mat",
+                "Assets/AssetArt/Effect/part_spark_small_dff.tif",
+                "Assets/AssetArt/Effect/part_spark_white_mat.mat",
+                "Assets/AssetArt/Effect/part_spark_large_mat.mat",
+                "Assets/AssetArt/Effect/part_shockwave_dff.tif",
+                "Assets/AssetArt/Effect/part_spark_large_dff.tif",
+                "Assets/AssetArt/Effect/part_shockwave_mat.mat",
+                "Assets/AssetRaw/Audios/sound_explosion_asteroid.wav"
+            ]
+        },
+        {
+            "Address": "explosion_enemy",
+            "AssetPath": "Assets/AssetRaw/Effects/Explosions/explosion_enemy.prefab",
+            "AssetGUID": "160925a6fe2664f2a978566b819f0af0",
+            "AssetTags": [
+                "Effects"
+            ],
+            "MainBundleName": "assets_assetraw_effects_explosions.bundle",
+            "MainBundleSize": 39678,
+            "DependBundles": [
+                "assets_assetraw_audios.bundle",
+                "unityshaders.bundle"
+            ],
+            "DependAssets": [
+                "Assets/AssetArt/Effect/part_flash_dff.tif",
+                "Assets/AssetArt/Effect/part_spark_blue_mat.mat",
+                "Assets/AssetArt/Effect/part_blast_mat.mat",
+                "Assets/AssetArt/Effect/part_spark_small_dff.tif",
+                "Assets/AssetArt/Effect/part_spark_large_mat.mat",
+                "Assets/AssetArt/Effect/part_shockwave_dff.tif",
+                "Assets/AssetArt/Effect/part_spark_large_dff.tif",
+                "Assets/AssetArt/Effect/part_shockwave_mat.mat",
+                "Assets/AssetRaw/Audios/sound_explosion_enemy.wav"
+            ]
+        },
+        {
+            "Address": "explosion_player",
+            "AssetPath": "Assets/AssetRaw/Effects/Explosions/explosion_player.prefab",
+            "AssetGUID": "3455fe69f7ddc4604b95bf9b0a1e88d7",
+            "AssetTags": [
+                "Effects"
+            ],
+            "MainBundleName": "assets_assetraw_effects_explosions.bundle",
+            "MainBundleSize": 39678,
+            "DependBundles": [
+                "assets_assetraw_audios.bundle",
+                "unityshaders.bundle"
+            ],
+            "DependAssets": [
+                "Assets/AssetArt/Effect/part_flash_dff.tif",
+                "Assets/AssetArt/Effect/part_blast_mat.mat",
+                "Assets/AssetArt/Effect/part_spark_small_dff.tif",
+                "Assets/AssetArt/Effect/part_spark_white_mat.mat",
+                "Assets/AssetRaw/Audios/sound_explosion_player.wav",
+                "Assets/AssetArt/Effect/part_spark_large_mat.mat",
+                "Assets/AssetArt/Effect/part_shockwave_dff.tif",
+                "Assets/AssetArt/Effect/part_spark_large_dff.tif",
+                "Assets/AssetArt/Effect/part_shockwave_mat.mat",
+                "Assets/AssetArt/Effect/part_spark_yellow_mat.mat"
+            ]
+        },
+        {
+            "Address": "scene_battle",
+            "AssetPath": "Assets/AssetRaw/Scenes/scene_battle.unity",
+            "AssetGUID": "367249c8f14b3a041b2a5c9a2b7de7a5",
+            "AssetTags": [
+                "Scenes"
+            ],
+            "MainBundleName": "assets_assetraw_scenes_scene_battle.bundle",
+            "MainBundleSize": 73271,
+            "DependBundles": [
+                "share_assets_assetart_scene.bundle",
+                "assets_assetraw_audios.bundle",
+                "assets_assetraw_scenes_scene_battlesettings.bundle",
+                "unityshaders.bundle"
+            ],
+            "DependAssets": [
+                "Assets/Models/3DSprite/Tile/tileset-sliced_355.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_261.asset",
+                "Assets/Models/3DSprite/Animation/Walk_Left.anim",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_352.asset",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/idle/hero-idle-back/hero-idle-back.png",
+                "Assets/Models/3DSprite/Animation/Player.controller",
+                "Assets/AssetArt/Scene/tile_nebula_green_dff.tif",
+                "Assets/Models/3DSprite/Animation/Idle_Left.anim",
+                "Assets/AssetRaw/Audios/music_background.wav",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_300.asset",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-back/hero-walk-back-3.png",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-side/hero-walk-side-3.png",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-front/hero-walk-front-6.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_354.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_399.asset",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/Environment/sliced-objects/sign.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_318.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_258.asset",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/Environment/sliced-objects/trunk.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_275.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_382.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_335.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_237.asset",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/Environment/sliced-objects/rock.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_311.asset",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-back/hero-walk-back-2.png",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/idle/hero-idle-side/hero-idle-side.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_225.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_274.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_340.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_339.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_302.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_397.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_384.asset",
+                "Assets/Models/3DSprite/Animation/Idle_Front.anim",
+                "Assets/AssetArt/Effect/part_star_mat.mat",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_353.asset",
+                "Assets/Models/3DSprite/Animation/Walk_Back.anim",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-front/hero-walk-front-3.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_381.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_317.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_336.asset",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-back/hero-walk-back-5.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_305.asset",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/Environment/tileset-sliced.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_316.asset",
+                "Assets/Models/3DSprite/Animation/Walk_Front.anim",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-side/hero-walk-side-1.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_236.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_234.asset",
+                "Assets/Models/3DSprite/Animation/Idle_Right.anim",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-front/hero-walk-front-1.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_315.asset",
+                "Assets/AssetRaw/Scenes/scene_battleSettings.lighting",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_332.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_360.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_259.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_338.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_319.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_314.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_358.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_333.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_304.asset",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/Environment/sliced-objects/rock-monument.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_331.asset",
+                "Assets/AssetArt/Effect/part_star_dff.tif",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/Environment/sliced-objects/Materials/tree-orange.mat",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_321.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_260.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_235.asset",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-back/hero-walk-back-1.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_303.asset",
+                "Assets/Models/3DSprite/Animation/Walk_Right.anim",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_222.asset",
+                "Assets/AssetArt/Scene/tile_nebula_green_dff.mat",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-side/hero-walk-side-2.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_320.asset",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/Environment/sliced-objects/tree-dried.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_357.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_313.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_226.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_307.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_299.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_273.asset",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-side/hero-walk-side-6.png",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/Environment/sliced-objects/tree-orange.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_359.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_301.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_383.asset",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-side/hero-walk-side-4.png",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-back/hero-walk-back-6.png",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-front/hero-walk-front-2.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_276.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_356.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_308.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_312.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_306.asset",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-front/hero-walk-front-4.png",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-back/hero-walk-back-4.png",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-side/hero-walk-side-5.png",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/Environment/sliced-objects/bush.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_351.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_310.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_398.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_350.asset",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/Environment/sliced-objects/bush-tall.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_224.asset",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/idle/hero-idle-front/hero-idle-front.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_277.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_396.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_337.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_334.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_278.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_349.asset",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-front/hero-walk-front-5.png",
+                "Assets/Models/3DSprite/Animation/Idle_Back.anim"
+            ]
+        },
+        {
+            "Address": "scene_battleSettings",
+            "AssetPath": "Assets/AssetRaw/Scenes/scene_battleSettings.lighting",
+            "AssetGUID": "54e703ab47fdc294a9d2cd9d990c0d2d",
+            "AssetTags": [
+                "Scenes"
+            ],
+            "MainBundleName": "assets_assetraw_scenes_scene_battlesettings.bundle",
+            "MainBundleSize": 989,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "scene_home",
+            "AssetPath": "Assets/AssetRaw/Scenes/scene_home.unity",
+            "AssetGUID": "d1f972c576a5e20448964044e23ac974",
+            "AssetTags": [
+                "Scenes"
+            ],
+            "MainBundleName": "assets_assetraw_scenes_scene_home.bundle",
+            "MainBundleSize": 27918,
+            "DependBundles": [
+                "share_assets_assetart_scene.bundle",
+                "unityshaders.bundle"
+            ],
+            "DependAssets": [
+                "Assets/AssetArt/Scene/tile_nebula_green_dff.tif",
+                "Assets/AssetArt/Scene/tile_nebula_green_dff.mat"
+            ]
+        },
+        {
+            "Address": "LogUI",
+            "AssetPath": "Assets/AssetRaw/UI/LogUI.prefab",
+            "AssetGUID": "ad23fce0bd282924fa4aedb4da24684f",
+            "AssetTags": [
+                "UI"
+            ],
+            "MainBundleName": "assets_assetraw_ui_logui.bundle",
+            "MainBundleSize": 6493,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "TestUI",
+            "AssetPath": "Assets/AssetRaw/UI/TestUI.prefab",
+            "AssetGUID": "e7f73a9317cd2134fa6613d787208825",
+            "AssetTags": [
+                "UI"
+            ],
+            "MainBundleName": "assets_assetraw_ui_testui.bundle",
+            "MainBundleSize": 10809,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "UIAbout",
+            "AssetPath": "Assets/AssetRaw/UI/UIAbout.prefab",
+            "AssetGUID": "2e0f217747ebd544c82e9ddd1b47525e",
+            "AssetTags": [
+                "UI"
+            ],
+            "MainBundleName": "assets_assetraw_ui_uiabout.bundle",
+            "MainBundleSize": 6266,
+            "DependBundles": [
+                "assets_assetraw_uiraw_atlas_window.bundle",
+                "share_assets_assetart_uifont.bundle"
+            ],
+            "DependAssets": [
+                "Assets/AssetRaw/UIRaw/Atlas/window/window_transparent.png",
+                "Assets/AssetArt/UIFont/zekton free.ttf"
+            ]
+        },
+        {
+            "Address": "UIBattleWindow",
+            "AssetPath": "Assets/AssetRaw/UI/UIBattleWindow.prefab",
+            "AssetGUID": "dffa197b1a69704408cf9e2b16162c0e",
+            "AssetTags": [
+                "UI"
+            ],
+            "MainBundleName": "assets_assetraw_ui_uibattlewindow.bundle",
+            "MainBundleSize": 12169,
+            "DependBundles": [
+                "assets_assetraw_uiraw_atlas_buttons.bundle",
+                "share_assets_assetart_uifont.bundle",
+                "assets_assetraw_uiraw_atlas_bars.bundle"
+            ],
+            "DependAssets": [
+                "Assets/AssetArt/UIAnim/UIBgEffect.anim",
+                "Assets/AssetRaw/UIRaw/Atlas/buttons/rocket.png",
+                "Assets/AssetArt/UIFont/zekton free.ttf",
+                "Assets/AssetRaw/UIRaw/Atlas/bars/bar_blue1.png",
+                "Assets/AssetArt/UIAnim/UIBgEffect.controller",
+                "Assets/AssetRaw/UIRaw/Atlas/buttons/bullets.png",
+                "Assets/AssetRaw/UIRaw/Atlas/buttons/button1.png"
+            ]
+        },
+        {
+            "Address": "UICanvas",
+            "AssetPath": "Assets/AssetRaw/UI/UICanvas.prefab",
+            "AssetGUID": "1700631a871f2da418ca3815faed9394",
+            "AssetTags": [
+                "UI"
+            ],
+            "MainBundleName": "assets_assetraw_ui_uicanvas.bundle",
+            "MainBundleSize": 2874,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "UIHome",
+            "AssetPath": "Assets/AssetRaw/UI/UIHome.prefab",
+            "AssetGUID": "f33f75c4ce22cf248abf851242ac4363",
+            "AssetTags": [
+                "UI"
+            ],
+            "MainBundleName": "assets_assetraw_ui_uihome.bundle",
+            "MainBundleSize": 4522,
+            "DependBundles": [
+                "share_assets_assetart_uifont.bundle",
+                "assets_assetraw_uiraw_atlas_buttons.bundle"
+            ],
+            "DependAssets": [
+                "Assets/AssetArt/UIFont/zekton free.ttf",
+                "Assets/AssetRaw/UIRaw/Atlas/buttons/button1.png"
+            ]
+        },
+        {
+            "Address": "UIHomeNew",
+            "AssetPath": "Assets/AssetRaw/UI/UIHomeNew.prefab",
+            "AssetGUID": "4d0de0d832142d6448990cdd28ffdc68",
+            "AssetTags": [
+                "UI"
+            ],
+            "MainBundleName": "assets_assetraw_ui_uihomenew.bundle",
+            "MainBundleSize": 4349,
+            "DependBundles": [
+                "share_assets_assetart_uifont.bundle",
+                "assets_assetraw_uiraw_atlas_buttons.bundle"
+            ],
+            "DependAssets": [
+                "Assets/AssetArt/UIFont/zekton free.ttf",
+                "Assets/AssetRaw/UIRaw/Atlas/buttons/button1.png"
+            ]
+        },
+        {
+            "Address": "UILoading",
+            "AssetPath": "Assets/AssetRaw/UI/UILoading.prefab",
+            "AssetGUID": "79ae622f4c23c47449fc3ea70abaca51",
+            "AssetTags": [
+                "UI"
+            ],
+            "MainBundleName": "assets_assetraw_ui_uiloading.bundle",
+            "MainBundleSize": 3262,
+            "DependBundles": [
+                "share_assets_assetart_uifont.bundle",
+                "assets_assetraw_uiraw_atlas_battle.bundle"
+            ],
+            "DependAssets": [
+                "Assets/AssetArt/UIFont/zekton free.ttf",
+                "Assets/AssetRaw/UIRaw/Atlas/Battle/Space.jpg"
+            ]
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "assets_assetraw_actor.bundle",
+            "FileName": "c4c686a22e42e6380d6422f163450124.bundle",
+            "FileHash": "c4c686a22e42e6380d6422f163450124",
+            "FileCRC": "57f3dd35",
+            "FileSize": 412370,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "Actor"
+            ],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/AssetRaw/Actor/asteroid01.prefab",
+                "Assets/AssetRaw/Actor/asteroid02.prefab",
+                "Assets/AssetRaw/Actor/asteroid03.prefab",
+                "Assets/AssetRaw/Actor/Door1.prefab",
+                "Assets/AssetRaw/Actor/enemy_bullet.prefab",
+                "Assets/AssetRaw/Actor/enemy_ship.prefab",
+                "Assets/AssetRaw/Actor/HpBar.prefab",
+                "Assets/AssetRaw/Actor/player_bullet.prefab",
+                "Assets/AssetRaw/Actor/player_ship.prefab",
+                "Assets/Models/PixelArtPipeline/Textures/drangonNormalMap.png",
+                "Assets/Models/PixelArtPipeline/Materials/dragon.mat",
+                "Assets/Models/PixelArtPipeline/Animations2D/Dragonfloss.anim",
+                "Assets/Models/PixelArtPipeline/Animations2D/DragonPixel_turtle_neck_controller.controller",
+                "Assets/Models/PixelArtPipeline/Textures/IdleAtlasDiffuse.png",
+                "Assets/Models/PixelArtPipeline/Animations2D/Dragonidle.anim",
+                "Assets/Models/PixelArtPipeline/Textures/drangon.png",
+                "Assets/AssetArt/Effect/fx_lazer_cyan_dff.tif",
+                "Assets/AssetArt/Effect/fx_bolt_cyan_mat.mat",
+                "Assets/AssetArt/Effect/fx_lazer_orange_dff.tif",
+                "Assets/AssetArt/Effect/fx_bolt_orange_mat.mat",
+                "Assets/Models/PixelArtPipeline/Materials/D1.mat",
+                "Assets/Models/PixelArtPipeline/Animations2D/D1_idle.anim",
+                "Assets/Models/PixelArtPipeline/Animations2D/D1_ani.controller",
+                "Assets/Models/PixelArtPipeline/Animations2D/D1_floss.anim",
+                "Assets/Models/PixelArtPipeline/Textures/D1.png",
+                "Assets/Models/PixelArtPipeline/Textures/D1NormalMap.png"
+            ]
+        },
+        {
+            "BundleName": "assets_assetraw_uiraw_atlas_arrows.bundle",
+            "FileName": "5e1bac1e8aa8d34bd2de98b6678e2665.bundle",
+            "FileHash": "5e1bac1e8aa8d34bd2de98b6678e2665",
+            "FileCRC": "f2278cb4",
+            "FileSize": 135685,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "UIRaw"
+            ],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/AssetRaw/UIRaw/Atlas/arrows/arrow1_left.png",
+                "Assets/AssetRaw/UIRaw/Atlas/arrows/arrow1_right.png",
+                "Assets/AssetRaw/UIRaw/Atlas/arrows/arrow_left.png",
+                "Assets/AssetRaw/UIRaw/Atlas/arrows/arrow_right.png",
+                "Assets/AssetRaw/UIRaw/Atlas/arrows/back_arrow.png",
+                "Assets/AssetRaw/UIRaw/Atlas/arrows/long_arrow_left.png",
+                "Assets/AssetRaw/UIRaw/Atlas/arrows/long_arrow_right.png",
+                "Assets/AssetRaw/UIRaw/Atlas/arrows/plus.png"
+            ]
+        },
+        {
+            "BundleName": "assets_assetraw_uiraw_atlas_bars.bundle",
+            "FileName": "ec65cbd887b639c46e638ef04dbb1911.bundle",
+            "FileHash": "ec65cbd887b639c46e638ef04dbb1911",
+            "FileCRC": "ab21daca",
+            "FileSize": 20160,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "UIRaw",
+                "UI"
+            ],
+            "ReferenceIDs": [
+                19
+            ],
+            "AllBuiltinAssets": [
+                "Assets/AssetRaw/UIRaw/Atlas/bars/bar_blue.png",
+                "Assets/AssetRaw/UIRaw/Atlas/bars/bar_blue1.png",
+                "Assets/AssetRaw/UIRaw/Atlas/bars/progress_bar.png",
+                "Assets/AssetRaw/UIRaw/Atlas/bars/progress_bar_background.png"
+            ]
+        },
+        {
+            "BundleName": "assets_assetraw_uiraw_atlas_battle.bundle",
+            "FileName": "f8e9df1dc5e4ac70331a7b5f914d3674.bundle",
+            "FileHash": "f8e9df1dc5e4ac70331a7b5f914d3674",
+            "FileCRC": "c82e589f",
+            "FileSize": 912178,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "UIRaw",
+                "UI"
+            ],
+            "ReferenceIDs": [
+                23
+            ],
+            "AllBuiltinAssets": [
+                "Assets/AssetRaw/UIRaw/Atlas/Battle/Space.jpg"
+            ]
+        },
+        {
+            "BundleName": "assets_assetraw_uiraw_atlas_buttons.bundle",
+            "FileName": "24ad2d561b5567f969d6f173733fa4ee.bundle",
+            "FileHash": "24ad2d561b5567f969d6f173733fa4ee",
+            "FileCRC": "da18d6c1",
+            "FileSize": 271026,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "UIRaw",
+                "UI"
+            ],
+            "ReferenceIDs": [
+                19,
+                21,
+                22
+            ],
+            "AllBuiltinAssets": [
+                "Assets/AssetRaw/UIRaw/Atlas/buttons/bullets.png",
+                "Assets/AssetRaw/UIRaw/Atlas/buttons/button1.png",
+                "Assets/AssetRaw/UIRaw/Atlas/buttons/button_active.png",
+                "Assets/AssetRaw/UIRaw/Atlas/buttons/button_pushed.png",
+                "Assets/AssetRaw/UIRaw/Atlas/buttons/pause.png",
+                "Assets/AssetRaw/UIRaw/Atlas/buttons/rocket.png"
+            ]
+        },
+        {
+            "BundleName": "assets_assetraw_uiraw_atlas_common.bundle",
+            "FileName": "f7e440e64512de8c96be0bb7b5c40969.bundle",
+            "FileHash": "f7e440e64512de8c96be0bb7b5c40969",
+            "FileCRC": "7583f2ff",
+            "FileSize": 17800,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "UIRaw"
+            ],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/AssetRaw/UIRaw/Atlas/Common/blue_button.png",
+                "Assets/AssetRaw/UIRaw/Atlas/Common/red_button.png",
+                "Assets/AssetRaw/UIRaw/Atlas/Common/white_background.png",
+                "Assets/AssetRaw/UIRaw/Atlas/Common/white_button.png"
+            ]
+        },
+        {
+            "BundleName": "assets_assetraw_uiraw_atlas.bundle",
+            "FileName": "18572a7ef4506fef7b708eb23244d2c7.bundle",
+            "FileHash": "18572a7ef4506fef7b708eb23244d2c7",
+            "FileCRC": "fb6a0368",
+            "FileSize": 3058,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "UIRaw"
+            ],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/AssetRaw/UIRaw/Atlas/hp.png"
+            ]
+        },
+        {
+            "BundleName": "assets_assetraw_uiraw_atlas_window.bundle",
+            "FileName": "91228ca5061df6a77e02daeaaa936c40.bundle",
+            "FileHash": "91228ca5061df6a77e02daeaaa936c40",
+            "FileCRC": "8847c61d",
+            "FileSize": 103006,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "UIRaw",
+                "UI"
+            ],
+            "ReferenceIDs": [
+                18
+            ],
+            "AllBuiltinAssets": [
+                "Assets/AssetRaw/UIRaw/Atlas/window/window_transparent.png",
+                "Assets/AssetRaw/UIRaw/Atlas/window/window_transparent1.png"
+            ]
+        },
+        {
+            "BundleName": "assets_assetraw_audios.bundle",
+            "FileName": "6e3f6930550a487b597c4a103d9e6ffa.bundle",
+            "FileHash": "6e3f6930550a487b597c4a103d9e6ffa",
+            "FileCRC": "09429d57",
+            "FileSize": 855230,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "Audios",
+                "Scenes",
+                "Effects",
+                "Actor"
+            ],
+            "ReferenceIDs": [
+                0,
+                12,
+                13
+            ],
+            "AllBuiltinAssets": [
+                "Assets/AssetRaw/Audios/music_background.wav",
+                "Assets/AssetRaw/Audios/sound_explosion_asteroid.wav",
+                "Assets/AssetRaw/Audios/sound_explosion_enemy.wav",
+                "Assets/AssetRaw/Audios/sound_explosion_player.wav",
+                "Assets/AssetRaw/Audios/sound_weapon_enemy.wav",
+                "Assets/AssetRaw/Audios/sound_weapon_player.wav"
+            ]
+        },
+        {
+            "BundleName": "assets_assetraw_configs.bundle",
+            "FileName": "133d03a1946963f905e7e8f7790e9b8d.bundle",
+            "FileHash": "133d03a1946963f905e7e8f7790e9b8d",
+            "FileCRC": "86b366e8",
+            "FileSize": 1003,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "Configs",
+                "WEBGL_PRELOAD"
+            ],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/AssetRaw/Configs/about.txt",
+                "Assets/AssetRaw/Configs/need_cache_list.json"
+            ]
+        },
+        {
+            "BundleName": "assets_assetraw_dll.bundle",
+            "FileName": "694953d7884f4c09f5197f7fbf06766b.bundle",
+            "FileHash": "694953d7884f4c09f5197f7fbf06766b",
+            "FileCRC": "48fd09d5",
+            "FileSize": 1540168,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "DLL"
+            ],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/AssetRaw/DLL/GameBase.dll.bytes",
+                "Assets/AssetRaw/DLL/GameLogic.dll.bytes",
+                "Assets/AssetRaw/DLL/GameProto.dll.bytes",
+                "Assets/AssetRaw/DLL/mscorlib.dll.bytes",
+                "Assets/AssetRaw/DLL/System.Core.dll.bytes",
+                "Assets/AssetRaw/DLL/System.dll.bytes",
+                "Assets/AssetRaw/DLL/TEngine.Runtime.dll.bytes",
+                "Assets/AssetRaw/DLL/UniTask.dll.bytes",
+                "Assets/AssetRaw/DLL/UnityEngine.CoreModule.dll.bytes",
+                "Assets/AssetRaw/DLL/YooAsset.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "assets_assetraw_effects_engines.bundle",
+            "FileName": "a4638f5705fb3109b647b2c515b42116.bundle",
+            "FileHash": "a4638f5705fb3109b647b2c515b42116",
+            "FileCRC": "d9b2aca8",
+            "FileSize": 11946,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "Effects"
+            ],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/AssetRaw/Effects/Engines/engines_enemy.prefab",
+                "Assets/AssetRaw/Effects/Engines/engines_player.prefab",
+                "Assets/AssetArt/Effect/part_enginePulse_dff.tif",
+                "Assets/AssetArt/Effect/fx_enemyShip_engines_mat.mat",
+                "Assets/AssetArt/Effect/part_jet_core_dff.tif",
+                "Assets/AssetArt/Effect/part_jet_core_mat.mat",
+                "Assets/AssetArt/Effect/part_jet_flare_dff.tif",
+                "Assets/AssetArt/Effect/part_jet_flare_mat.mat"
+            ]
+        },
+        {
+            "BundleName": "assets_assetraw_effects_explosions.bundle",
+            "FileName": "f655604303f3c8b4af4c6f698c289442.bundle",
+            "FileHash": "f655604303f3c8b4af4c6f698c289442",
+            "FileCRC": "6fe1d2a7",
+            "FileSize": 39678,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "Effects"
+            ],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/AssetRaw/Effects/Explosions/explosion_asteroid.prefab",
+                "Assets/AssetRaw/Effects/Explosions/explosion_enemy.prefab",
+                "Assets/AssetRaw/Effects/Explosions/explosion_player.prefab",
+                "Assets/AssetArt/Effect/part_glow_mat.mat",
+                "Assets/AssetArt/Effect/part_spark_small_dff.tif",
+                "Assets/AssetArt/Effect/part_spark_white_mat.mat",
+                "Assets/AssetArt/Effect/part_spark_large_mat.mat",
+                "Assets/AssetArt/Effect/part_shockwave_dff.tif",
+                "Assets/AssetArt/Effect/part_spark_large_dff.tif",
+                "Assets/AssetArt/Effect/part_shockwave_mat.mat",
+                "Assets/AssetArt/Effect/part_flash_dff.tif",
+                "Assets/AssetArt/Effect/part_spark_blue_mat.mat",
+                "Assets/AssetArt/Effect/part_blast_mat.mat",
+                "Assets/AssetArt/Effect/part_spark_yellow_mat.mat"
+            ]
+        },
+        {
+            "BundleName": "assets_assetraw_scenes_scene_battle.bundle",
+            "FileName": "6a939c30f9d1578a3edd1c18d00276e8.bundle",
+            "FileHash": "6a939c30f9d1578a3edd1c18d00276e8",
+            "FileCRC": "fd63b513",
+            "FileSize": 73271,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "Scenes"
+            ],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/AssetRaw/Scenes/scene_battle.unity",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_355.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_261.asset",
+                "Assets/Models/3DSprite/Animation/Walk_Left.anim",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_352.asset",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/idle/hero-idle-back/hero-idle-back.png",
+                "Assets/Models/3DSprite/Animation/Player.controller",
+                "Assets/Models/3DSprite/Animation/Idle_Left.anim",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_300.asset",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-back/hero-walk-back-3.png",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-side/hero-walk-side-3.png",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-front/hero-walk-front-6.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_354.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_399.asset",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/Environment/sliced-objects/sign.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_318.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_258.asset",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/Environment/sliced-objects/trunk.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_275.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_382.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_335.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_237.asset",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/Environment/sliced-objects/rock.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_311.asset",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-back/hero-walk-back-2.png",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/idle/hero-idle-side/hero-idle-side.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_225.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_274.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_340.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_339.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_302.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_397.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_384.asset",
+                "Assets/Models/3DSprite/Animation/Idle_Front.anim",
+                "Assets/AssetArt/Effect/part_star_mat.mat",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_353.asset",
+                "Assets/Models/3DSprite/Animation/Walk_Back.anim",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-front/hero-walk-front-3.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_381.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_317.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_336.asset",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-back/hero-walk-back-5.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_305.asset",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/Environment/tileset-sliced.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_316.asset",
+                "Assets/Models/3DSprite/Animation/Walk_Front.anim",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-side/hero-walk-side-1.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_236.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_234.asset",
+                "Assets/Models/3DSprite/Animation/Idle_Right.anim",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-front/hero-walk-front-1.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_315.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_332.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_360.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_259.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_338.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_319.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_314.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_358.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_333.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_304.asset",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/Environment/sliced-objects/rock-monument.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_331.asset",
+                "Assets/AssetArt/Effect/part_star_dff.tif",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/Environment/sliced-objects/Materials/tree-orange.mat",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_321.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_260.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_235.asset",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-back/hero-walk-back-1.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_303.asset",
+                "Assets/Models/3DSprite/Animation/Walk_Right.anim",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_222.asset",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-side/hero-walk-side-2.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_320.asset",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/Environment/sliced-objects/tree-dried.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_357.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_313.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_226.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_307.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_299.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_273.asset",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-side/hero-walk-side-6.png",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/Environment/sliced-objects/tree-orange.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_359.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_301.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_383.asset",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-side/hero-walk-side-4.png",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-back/hero-walk-back-6.png",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-front/hero-walk-front-2.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_276.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_356.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_308.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_312.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_306.asset",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-front/hero-walk-front-4.png",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-back/hero-walk-back-4.png",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-side/hero-walk-side-5.png",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/Environment/sliced-objects/bush.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_351.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_310.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_398.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_350.asset",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/Environment/sliced-objects/bush-tall.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_224.asset",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/idle/hero-idle-front/hero-idle-front.png",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_277.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_396.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_337.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_334.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_278.asset",
+                "Assets/Models/3DSprite/Tile/tileset-sliced_349.asset",
+                "Assets/Models/3DSprite/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-front/hero-walk-front-5.png",
+                "Assets/Models/3DSprite/Animation/Idle_Back.anim"
+            ]
+        },
+        {
+            "BundleName": "assets_assetraw_scenes_scene_battlesettings.bundle",
+            "FileName": "d4981b677419f5f09faa542121a4a17a.bundle",
+            "FileHash": "d4981b677419f5f09faa542121a4a17a",
+            "FileCRC": "622d301c",
+            "FileSize": 989,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "Scenes"
+            ],
+            "ReferenceIDs": [
+                13
+            ],
+            "AllBuiltinAssets": [
+                "Assets/AssetRaw/Scenes/scene_battleSettings.lighting"
+            ]
+        },
+        {
+            "BundleName": "assets_assetraw_scenes_scene_home.bundle",
+            "FileName": "4ec01999de23addc27771bfe4400d7b2.bundle",
+            "FileHash": "4ec01999de23addc27771bfe4400d7b2",
+            "FileCRC": "b52b546a",
+            "FileSize": 27918,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "Scenes"
+            ],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/AssetRaw/Scenes/scene_home.unity"
+            ]
+        },
+        {
+            "BundleName": "assets_assetraw_ui_logui.bundle",
+            "FileName": "a50646e1176fb1c49e267e4f7e9efe3b.bundle",
+            "FileHash": "a50646e1176fb1c49e267e4f7e9efe3b",
+            "FileCRC": "2fe5f804",
+            "FileSize": 6493,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "UI"
+            ],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/AssetRaw/UI/LogUI.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_assetraw_ui_testui.bundle",
+            "FileName": "eeee7132fbc8e268e5ca33e48a13ee48.bundle",
+            "FileHash": "eeee7132fbc8e268e5ca33e48a13ee48",
+            "FileCRC": "df2e3cdf",
+            "FileSize": 10809,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "UI"
+            ],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/AssetRaw/UI/TestUI.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_assetraw_ui_uiabout.bundle",
+            "FileName": "8ef998057d16be2c8b911070ba2e30de.bundle",
+            "FileHash": "8ef998057d16be2c8b911070ba2e30de",
+            "FileCRC": "1cb71168",
+            "FileSize": 6266,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "UI"
+            ],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/AssetRaw/UI/UIAbout.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_assetraw_ui_uibattlewindow.bundle",
+            "FileName": "1676dfa99be6e30f5f0d99ba265cd1bc.bundle",
+            "FileHash": "1676dfa99be6e30f5f0d99ba265cd1bc",
+            "FileCRC": "c552e293",
+            "FileSize": 12169,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "UI"
+            ],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/AssetRaw/UI/UIBattleWindow.prefab",
+                "Assets/AssetArt/UIAnim/UIBgEffect.anim",
+                "Assets/AssetArt/UIAnim/UIBgEffect.controller"
+            ]
+        },
+        {
+            "BundleName": "assets_assetraw_ui_uicanvas.bundle",
+            "FileName": "8677860e56750084239b6637e2806c76.bundle",
+            "FileHash": "8677860e56750084239b6637e2806c76",
+            "FileCRC": "d2b1d0ab",
+            "FileSize": 2874,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "UI"
+            ],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/AssetRaw/UI/UICanvas.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_assetraw_ui_uihome.bundle",
+            "FileName": "5fe94d4c8cab67db7f987a3070b9e3e9.bundle",
+            "FileHash": "5fe94d4c8cab67db7f987a3070b9e3e9",
+            "FileCRC": "450d39ea",
+            "FileSize": 4522,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "UI"
+            ],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/AssetRaw/UI/UIHome.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_assetraw_ui_uihomenew.bundle",
+            "FileName": "2884f575042b16097657750e38dc917c.bundle",
+            "FileHash": "2884f575042b16097657750e38dc917c",
+            "FileCRC": "2bcca0e2",
+            "FileSize": 4349,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "UI"
+            ],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/AssetRaw/UI/UIHomeNew.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_assetraw_ui_uiloading.bundle",
+            "FileName": "a4e7f92a39aa93434abb562309a3dedc.bundle",
+            "FileHash": "a4e7f92a39aa93434abb562309a3dedc",
+            "FileCRC": "653aac62",
+            "FileSize": 3262,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "UI"
+            ],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/AssetRaw/UI/UILoading.prefab"
+            ]
+        },
+        {
+            "BundleName": "unityshaders.bundle",
+            "FileName": "5efdd642a75090cf5ded32884b20ee28.bundle",
+            "FileHash": "5efdd642a75090cf5ded32884b20ee28",
+            "FileCRC": "ae724728",
+            "FileSize": 135459,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "Actor",
+                "Effects",
+                "Scenes"
+            ],
+            "ReferenceIDs": [
+                0,
+                12,
+                13,
+                15,
+                25
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Models/PixelArtPipeline/Shaders/ToonLitSprite.shader"
+            ]
+        },
+        {
+            "BundleName": "share_assets_assetart_scene.bundle",
+            "FileName": "997d6c15214260c640c2b5317c675a6a.bundle",
+            "FileHash": "997d6c15214260c640c2b5317c675a6a",
+            "FileCRC": "205c7546",
+            "FileSize": 485940,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "Scenes"
+            ],
+            "ReferenceIDs": [
+                13,
+                15
+            ],
+            "AllBuiltinAssets": [
+                "Assets/AssetArt/Scene/tile_nebula_green_dff.tif",
+                "Assets/AssetArt/Scene/tile_nebula_green_dff.mat"
+            ]
+        },
+        {
+            "BundleName": "share_assets_assetart_uifont.bundle",
+            "FileName": "b6490ae15a98ffc6b0e303f645ff3169.bundle",
+            "FileHash": "b6490ae15a98ffc6b0e303f645ff3169",
+            "FileCRC": "b73fe889",
+            "FileSize": 12403,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "UI"
+            ],
+            "ReferenceIDs": [
+                18,
+                19,
+                21,
+                22,
+                23
+            ],
+            "AllBuiltinAssets": [
+                "Assets/AssetArt/UIFont/zekton free.ttf"
+            ]
+        }
+    ],
+    "RedundancyInfos": []
+}

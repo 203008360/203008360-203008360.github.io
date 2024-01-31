@@ -1,0 +1,1150 @@
+{
+    "FileVersion": "1.5.2",
+    "EnableAddressable": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "OutputNameStyle": 1,
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "2024-01-30-1137",
+    "AssetList": [
+        {
+            "Address": "asteroid01",
+            "AssetPath": "Assets/AssetRaw/Actor/asteroid01.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Actor"
+            ],
+            "BundleID": 0,
+            "DependIDs": [
+                24
+            ]
+        },
+        {
+            "Address": "asteroid02",
+            "AssetPath": "Assets/AssetRaw/Actor/asteroid02.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Actor"
+            ],
+            "BundleID": 0,
+            "DependIDs": [
+                24
+            ]
+        },
+        {
+            "Address": "asteroid03",
+            "AssetPath": "Assets/AssetRaw/Actor/asteroid03.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Actor"
+            ],
+            "BundleID": 0,
+            "DependIDs": [
+                24
+            ]
+        },
+        {
+            "Address": "Door1",
+            "AssetPath": "Assets/AssetRaw/Actor/Door1.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Actor"
+            ],
+            "BundleID": 0,
+            "DependIDs": [
+                24
+            ]
+        },
+        {
+            "Address": "enemy_bullet",
+            "AssetPath": "Assets/AssetRaw/Actor/enemy_bullet.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Actor"
+            ],
+            "BundleID": 0,
+            "DependIDs": [
+                24
+            ]
+        },
+        {
+            "Address": "enemy_ship",
+            "AssetPath": "Assets/AssetRaw/Actor/enemy_ship.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Actor"
+            ],
+            "BundleID": 0,
+            "DependIDs": [
+                8,
+                24
+            ]
+        },
+        {
+            "Address": "HpBar",
+            "AssetPath": "Assets/AssetRaw/Actor/HpBar.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Actor"
+            ],
+            "BundleID": 0,
+            "DependIDs": [
+                24
+            ]
+        },
+        {
+            "Address": "player_bullet",
+            "AssetPath": "Assets/AssetRaw/Actor/player_bullet.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Actor"
+            ],
+            "BundleID": 0,
+            "DependIDs": [
+                24
+            ]
+        },
+        {
+            "Address": "player_ship",
+            "AssetPath": "Assets/AssetRaw/Actor/player_ship.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Actor"
+            ],
+            "BundleID": 0,
+            "DependIDs": [
+                8,
+                24
+            ]
+        },
+        {
+            "Address": "arrow1_left",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/arrows/arrow1_left.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "arrow1_right",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/arrows/arrow1_right.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "arrow_left",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/arrows/arrow_left.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "arrow_right",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/arrows/arrow_right.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "back_arrow",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/arrows/back_arrow.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "long_arrow_left",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/arrows/long_arrow_left.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "long_arrow_right",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/arrows/long_arrow_right.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "plus",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/arrows/plus.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "bar_blue",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/bars/bar_blue.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "BundleID": 2,
+            "DependIDs": []
+        },
+        {
+            "Address": "bar_blue1",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/bars/bar_blue1.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "BundleID": 2,
+            "DependIDs": []
+        },
+        {
+            "Address": "progress_bar",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/bars/progress_bar.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "BundleID": 2,
+            "DependIDs": []
+        },
+        {
+            "Address": "progress_bar_background",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/bars/progress_bar_background.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "BundleID": 2,
+            "DependIDs": []
+        },
+        {
+            "Address": "Space",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Battle/Space.jpg",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "BundleID": 3,
+            "DependIDs": []
+        },
+        {
+            "Address": "bullets",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/buttons/bullets.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "BundleID": 4,
+            "DependIDs": []
+        },
+        {
+            "Address": "button1",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/buttons/button1.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "BundleID": 4,
+            "DependIDs": []
+        },
+        {
+            "Address": "button_active",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/buttons/button_active.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "BundleID": 4,
+            "DependIDs": []
+        },
+        {
+            "Address": "button_pushed",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/buttons/button_pushed.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "BundleID": 4,
+            "DependIDs": []
+        },
+        {
+            "Address": "pause",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/buttons/pause.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "BundleID": 4,
+            "DependIDs": []
+        },
+        {
+            "Address": "rocket",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/buttons/rocket.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "BundleID": 4,
+            "DependIDs": []
+        },
+        {
+            "Address": "blue_button",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/blue_button.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "BundleID": 5,
+            "DependIDs": []
+        },
+        {
+            "Address": "red_button",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/red_button.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "BundleID": 5,
+            "DependIDs": []
+        },
+        {
+            "Address": "white_background",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/white_background.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "BundleID": 5,
+            "DependIDs": []
+        },
+        {
+            "Address": "white_button",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/white_button.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "BundleID": 5,
+            "DependIDs": []
+        },
+        {
+            "Address": "hp",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/hp.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "BundleID": 6,
+            "DependIDs": []
+        },
+        {
+            "Address": "window_transparent",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/window/window_transparent.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "BundleID": 7,
+            "DependIDs": []
+        },
+        {
+            "Address": "window_transparent1",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/window/window_transparent1.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "BundleID": 7,
+            "DependIDs": []
+        },
+        {
+            "Address": "music_background",
+            "AssetPath": "Assets/AssetRaw/Audios/music_background.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Audios"
+            ],
+            "BundleID": 8,
+            "DependIDs": []
+        },
+        {
+            "Address": "sound_explosion_asteroid",
+            "AssetPath": "Assets/AssetRaw/Audios/sound_explosion_asteroid.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Audios"
+            ],
+            "BundleID": 8,
+            "DependIDs": []
+        },
+        {
+            "Address": "sound_explosion_enemy",
+            "AssetPath": "Assets/AssetRaw/Audios/sound_explosion_enemy.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Audios"
+            ],
+            "BundleID": 8,
+            "DependIDs": []
+        },
+        {
+            "Address": "sound_explosion_player",
+            "AssetPath": "Assets/AssetRaw/Audios/sound_explosion_player.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Audios"
+            ],
+            "BundleID": 8,
+            "DependIDs": []
+        },
+        {
+            "Address": "sound_weapon_enemy",
+            "AssetPath": "Assets/AssetRaw/Audios/sound_weapon_enemy.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Audios"
+            ],
+            "BundleID": 8,
+            "DependIDs": []
+        },
+        {
+            "Address": "sound_weapon_player",
+            "AssetPath": "Assets/AssetRaw/Audios/sound_weapon_player.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Audios"
+            ],
+            "BundleID": 8,
+            "DependIDs": []
+        },
+        {
+            "Address": "about",
+            "AssetPath": "Assets/AssetRaw/Configs/about.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Configs",
+                "WEBGL_PRELOAD"
+            ],
+            "BundleID": 9,
+            "DependIDs": []
+        },
+        {
+            "Address": "need_cache_list",
+            "AssetPath": "Assets/AssetRaw/Configs/need_cache_list.json",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Configs",
+                "WEBGL_PRELOAD"
+            ],
+            "BundleID": 9,
+            "DependIDs": []
+        },
+        {
+            "Address": "GameBase.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/GameBase.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DLL"
+            ],
+            "BundleID": 10,
+            "DependIDs": []
+        },
+        {
+            "Address": "GameLogic.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/GameLogic.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DLL"
+            ],
+            "BundleID": 10,
+            "DependIDs": []
+        },
+        {
+            "Address": "GameProto.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/GameProto.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DLL"
+            ],
+            "BundleID": 10,
+            "DependIDs": []
+        },
+        {
+            "Address": "mscorlib.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/mscorlib.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DLL"
+            ],
+            "BundleID": 10,
+            "DependIDs": []
+        },
+        {
+            "Address": "System.Core.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/System.Core.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DLL"
+            ],
+            "BundleID": 10,
+            "DependIDs": []
+        },
+        {
+            "Address": "System.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/System.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DLL"
+            ],
+            "BundleID": 10,
+            "DependIDs": []
+        },
+        {
+            "Address": "TEngine.Runtime.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/TEngine.Runtime.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DLL"
+            ],
+            "BundleID": 10,
+            "DependIDs": []
+        },
+        {
+            "Address": "UniTask.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/UniTask.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DLL"
+            ],
+            "BundleID": 10,
+            "DependIDs": []
+        },
+        {
+            "Address": "UnityEngine.CoreModule.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/UnityEngine.CoreModule.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DLL"
+            ],
+            "BundleID": 10,
+            "DependIDs": []
+        },
+        {
+            "Address": "YooAsset.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/YooAsset.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DLL"
+            ],
+            "BundleID": 10,
+            "DependIDs": []
+        },
+        {
+            "Address": "engines_enemy",
+            "AssetPath": "Assets/AssetRaw/Effects/Engines/engines_enemy.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Effects"
+            ],
+            "BundleID": 11,
+            "DependIDs": []
+        },
+        {
+            "Address": "engines_player",
+            "AssetPath": "Assets/AssetRaw/Effects/Engines/engines_player.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Effects"
+            ],
+            "BundleID": 11,
+            "DependIDs": []
+        },
+        {
+            "Address": "explosion_asteroid",
+            "AssetPath": "Assets/AssetRaw/Effects/Explosions/explosion_asteroid.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Effects"
+            ],
+            "BundleID": 12,
+            "DependIDs": [
+                8,
+                24
+            ]
+        },
+        {
+            "Address": "explosion_enemy",
+            "AssetPath": "Assets/AssetRaw/Effects/Explosions/explosion_enemy.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Effects"
+            ],
+            "BundleID": 12,
+            "DependIDs": [
+                8,
+                24
+            ]
+        },
+        {
+            "Address": "explosion_player",
+            "AssetPath": "Assets/AssetRaw/Effects/Explosions/explosion_player.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Effects"
+            ],
+            "BundleID": 12,
+            "DependIDs": [
+                8,
+                24
+            ]
+        },
+        {
+            "Address": "scene_battle",
+            "AssetPath": "Assets/AssetRaw/Scenes/scene_battle.unity",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Scenes"
+            ],
+            "BundleID": 13,
+            "DependIDs": [
+                25,
+                8,
+                14,
+                24
+            ]
+        },
+        {
+            "Address": "scene_battleSettings",
+            "AssetPath": "Assets/AssetRaw/Scenes/scene_battleSettings.lighting",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Scenes"
+            ],
+            "BundleID": 14,
+            "DependIDs": []
+        },
+        {
+            "Address": "scene_home",
+            "AssetPath": "Assets/AssetRaw/Scenes/scene_home.unity",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Scenes"
+            ],
+            "BundleID": 15,
+            "DependIDs": [
+                25,
+                24
+            ]
+        },
+        {
+            "Address": "LogUI",
+            "AssetPath": "Assets/AssetRaw/UI/LogUI.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UI"
+            ],
+            "BundleID": 16,
+            "DependIDs": []
+        },
+        {
+            "Address": "TestUI",
+            "AssetPath": "Assets/AssetRaw/UI/TestUI.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UI"
+            ],
+            "BundleID": 17,
+            "DependIDs": []
+        },
+        {
+            "Address": "UIAbout",
+            "AssetPath": "Assets/AssetRaw/UI/UIAbout.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UI"
+            ],
+            "BundleID": 18,
+            "DependIDs": [
+                7,
+                26
+            ]
+        },
+        {
+            "Address": "UIBattleWindow",
+            "AssetPath": "Assets/AssetRaw/UI/UIBattleWindow.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UI"
+            ],
+            "BundleID": 19,
+            "DependIDs": [
+                4,
+                26,
+                2
+            ]
+        },
+        {
+            "Address": "UICanvas",
+            "AssetPath": "Assets/AssetRaw/UI/UICanvas.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UI"
+            ],
+            "BundleID": 20,
+            "DependIDs": []
+        },
+        {
+            "Address": "UIHome",
+            "AssetPath": "Assets/AssetRaw/UI/UIHome.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UI"
+            ],
+            "BundleID": 21,
+            "DependIDs": [
+                26,
+                4
+            ]
+        },
+        {
+            "Address": "UIHomeNew",
+            "AssetPath": "Assets/AssetRaw/UI/UIHomeNew.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UI"
+            ],
+            "BundleID": 22,
+            "DependIDs": [
+                26,
+                4
+            ]
+        },
+        {
+            "Address": "UILoading",
+            "AssetPath": "Assets/AssetRaw/UI/UILoading.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UI"
+            ],
+            "BundleID": 23,
+            "DependIDs": [
+                26,
+                3
+            ]
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_assetraw_actor.bundle",
+            "UnityCRC": 3171472175,
+            "FileHash": "c4c686a22e42e6380d6422f163450124",
+            "FileCRC": "57f3dd35",
+            "FileSize": 412370,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "Actor"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_assetraw_uiraw_atlas_arrows.bundle",
+            "UnityCRC": 2822794906,
+            "FileHash": "5e1bac1e8aa8d34bd2de98b6678e2665",
+            "FileCRC": "f2278cb4",
+            "FileSize": 135685,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "UIRaw"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_assetraw_uiraw_atlas_bars.bundle",
+            "UnityCRC": 358933718,
+            "FileHash": "ec65cbd887b639c46e638ef04dbb1911",
+            "FileCRC": "ab21daca",
+            "FileSize": 20160,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "UIRaw",
+                "UI"
+            ],
+            "ReferenceIDs": [
+                19
+            ]
+        },
+        {
+            "BundleName": "assets_assetraw_uiraw_atlas_battle.bundle",
+            "UnityCRC": 3567560607,
+            "FileHash": "f8e9df1dc5e4ac70331a7b5f914d3674",
+            "FileCRC": "c82e589f",
+            "FileSize": 912178,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "UIRaw",
+                "UI"
+            ],
+            "ReferenceIDs": [
+                23
+            ]
+        },
+        {
+            "BundleName": "assets_assetraw_uiraw_atlas_buttons.bundle",
+            "UnityCRC": 1108791839,
+            "FileHash": "24ad2d561b5567f969d6f173733fa4ee",
+            "FileCRC": "da18d6c1",
+            "FileSize": 271026,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "UIRaw",
+                "UI"
+            ],
+            "ReferenceIDs": [
+                19,
+                21,
+                22
+            ]
+        },
+        {
+            "BundleName": "assets_assetraw_uiraw_atlas_common.bundle",
+            "UnityCRC": 3808703124,
+            "FileHash": "f7e440e64512de8c96be0bb7b5c40969",
+            "FileCRC": "7583f2ff",
+            "FileSize": 17800,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "UIRaw"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_assetraw_uiraw_atlas.bundle",
+            "UnityCRC": 2259419065,
+            "FileHash": "18572a7ef4506fef7b708eb23244d2c7",
+            "FileCRC": "fb6a0368",
+            "FileSize": 3058,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "UIRaw"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_assetraw_uiraw_atlas_window.bundle",
+            "UnityCRC": 3476251728,
+            "FileHash": "91228ca5061df6a77e02daeaaa936c40",
+            "FileCRC": "8847c61d",
+            "FileSize": 103006,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "UIRaw",
+                "UI"
+            ],
+            "ReferenceIDs": [
+                18
+            ]
+        },
+        {
+            "BundleName": "assets_assetraw_audios.bundle",
+            "UnityCRC": 1270413653,
+            "FileHash": "6e3f6930550a487b597c4a103d9e6ffa",
+            "FileCRC": "09429d57",
+            "FileSize": 855230,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "Audios",
+                "Scenes",
+                "Effects",
+                "Actor"
+            ],
+            "ReferenceIDs": [
+                0,
+                12,
+                13
+            ]
+        },
+        {
+            "BundleName": "assets_assetraw_configs.bundle",
+            "UnityCRC": 3746851560,
+            "FileHash": "133d03a1946963f905e7e8f7790e9b8d",
+            "FileCRC": "86b366e8",
+            "FileSize": 1003,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "Configs",
+                "WEBGL_PRELOAD"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_assetraw_dll.bundle",
+            "UnityCRC": 3311442476,
+            "FileHash": "694953d7884f4c09f5197f7fbf06766b",
+            "FileCRC": "48fd09d5",
+            "FileSize": 1540168,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "DLL"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_assetraw_effects_engines.bundle",
+            "UnityCRC": 2292803618,
+            "FileHash": "a4638f5705fb3109b647b2c515b42116",
+            "FileCRC": "d9b2aca8",
+            "FileSize": 11946,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "Effects"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_assetraw_effects_explosions.bundle",
+            "UnityCRC": 4177693893,
+            "FileHash": "f655604303f3c8b4af4c6f698c289442",
+            "FileCRC": "6fe1d2a7",
+            "FileSize": 39678,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "Effects"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_assetraw_scenes_scene_battle.bundle",
+            "UnityCRC": 1861909410,
+            "FileHash": "6a939c30f9d1578a3edd1c18d00276e8",
+            "FileCRC": "fd63b513",
+            "FileSize": 73271,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "Scenes"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_assetraw_scenes_scene_battlesettings.bundle",
+            "UnityCRC": 1870493735,
+            "FileHash": "d4981b677419f5f09faa542121a4a17a",
+            "FileCRC": "622d301c",
+            "FileSize": 989,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "Scenes"
+            ],
+            "ReferenceIDs": [
+                13
+            ]
+        },
+        {
+            "BundleName": "assets_assetraw_scenes_scene_home.bundle",
+            "UnityCRC": 4021162450,
+            "FileHash": "4ec01999de23addc27771bfe4400d7b2",
+            "FileCRC": "b52b546a",
+            "FileSize": 27918,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "Scenes"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_assetraw_ui_logui.bundle",
+            "UnityCRC": 1712274377,
+            "FileHash": "a50646e1176fb1c49e267e4f7e9efe3b",
+            "FileCRC": "2fe5f804",
+            "FileSize": 6493,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "UI"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_assetraw_ui_testui.bundle",
+            "UnityCRC": 128358635,
+            "FileHash": "eeee7132fbc8e268e5ca33e48a13ee48",
+            "FileCRC": "df2e3cdf",
+            "FileSize": 10809,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "UI"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_assetraw_ui_uiabout.bundle",
+            "UnityCRC": 2982761582,
+            "FileHash": "8ef998057d16be2c8b911070ba2e30de",
+            "FileCRC": "1cb71168",
+            "FileSize": 6266,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "UI"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_assetraw_ui_uibattlewindow.bundle",
+            "UnityCRC": 3477961465,
+            "FileHash": "1676dfa99be6e30f5f0d99ba265cd1bc",
+            "FileCRC": "c552e293",
+            "FileSize": 12169,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "UI"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_assetraw_ui_uicanvas.bundle",
+            "UnityCRC": 88190725,
+            "FileHash": "8677860e56750084239b6637e2806c76",
+            "FileCRC": "d2b1d0ab",
+            "FileSize": 2874,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "UI"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_assetraw_ui_uihome.bundle",
+            "UnityCRC": 2077708827,
+            "FileHash": "5fe94d4c8cab67db7f987a3070b9e3e9",
+            "FileCRC": "450d39ea",
+            "FileSize": 4522,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "UI"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_assetraw_ui_uihomenew.bundle",
+            "UnityCRC": 3844741449,
+            "FileHash": "2884f575042b16097657750e38dc917c",
+            "FileCRC": "2bcca0e2",
+            "FileSize": 4349,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "UI"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_assetraw_ui_uiloading.bundle",
+            "UnityCRC": 1761390640,
+            "FileHash": "a4e7f92a39aa93434abb562309a3dedc",
+            "FileCRC": "653aac62",
+            "FileSize": 3262,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "UI"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "unityshaders.bundle",
+            "UnityCRC": 2505311533,
+            "FileHash": "5efdd642a75090cf5ded32884b20ee28",
+            "FileCRC": "ae724728",
+            "FileSize": 135459,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "Actor",
+                "Effects",
+                "Scenes"
+            ],
+            "ReferenceIDs": [
+                0,
+                12,
+                13,
+                15,
+                25
+            ]
+        },
+        {
+            "BundleName": "share_assets_assetart_scene.bundle",
+            "UnityCRC": 4045672431,
+            "FileHash": "997d6c15214260c640c2b5317c675a6a",
+            "FileCRC": "205c7546",
+            "FileSize": 485940,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "Scenes"
+            ],
+            "ReferenceIDs": [
+                13,
+                15
+            ]
+        },
+        {
+            "BundleName": "share_assets_assetart_uifont.bundle",
+            "UnityCRC": 712371043,
+            "FileHash": "b6490ae15a98ffc6b0e303f645ff3169",
+            "FileCRC": "b73fe889",
+            "FileSize": 12403,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "UI"
+            ],
+            "ReferenceIDs": [
+                18,
+                19,
+                21,
+                22,
+                23
+            ]
+        }
+    ]
+}
